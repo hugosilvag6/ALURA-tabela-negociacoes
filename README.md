@@ -1,0 +1,1 @@
+# ALURA-tabela-negociacoes
